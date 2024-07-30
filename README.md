@@ -3,7 +3,7 @@ This project demonstrates the use of the MITRE ATT&CK framework for understandin
 <a href="https://github.com/MenakaGodakanda/mitre-attack-demo/blob/main/Project_Description.md">Project Description</a>
 
 ## Overview
-<img width="671" alt="Screenshot 2024-07-31 at 5 05 05 AM" src="https://github.com/user-attachments/assets/b669d349-87f5-466f-97f3-a54a3b5935d5">
+<img width="923" alt="Screenshot 2024-07-31 at 5 08 50 AM" src="https://github.com/user-attachments/assets/d72059c3-ab33-47ae-b027-7e0906cd8a87">
 
 ### Explanation
 #### 1. MITRE ATT&CK Framework Data Source:
