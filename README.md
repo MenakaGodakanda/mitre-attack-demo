@@ -47,18 +47,19 @@ pip install mitreattack-python
   ```sh
   python scripts/fetch_data.py
   ```
-- This script will download the MITRE ATT&CK data and save it to `data/attack_data.json`. The output in the terminal should look like this:
+- This script will download the MITRE ATT&CK data and save it to `data/attack_data.json`. The output in the terminal should look like this:<br>
+![Screenshot 2024-07-31 033945](https://github.com/user-attachments/assets/05c6e720-7a03-495b-b349-52f8a9e2daab)
 
-
-- Verify that the JSON file is created in the data directory.
+- Verify that the JSON file is created in the data directory:<br>
+![Screenshot 2024-07-31 041725](https://github.com/user-attachments/assets/c8cc2562-4a46-4116-af43-8e7dc9ac23a5)
 
 
 ### 5. Run the Attack Analysis:
   ```sh
   python scripts/attack_analysis.py
   ```
-- This script will print a list of techniques from the MITRE ATT&CK framework. The output in the terminal should look like this:
-
+- This script will print a list of techniques from the MITRE ATT&CK framework. The output in the terminal should look like this:<br>
+![Screenshot 2024-07-31 034740](https://github.com/user-attachments/assets/3978c27d-d103-44d0-9ed8-019cfd09aee8)
 
 ## Project Structure
 ```
