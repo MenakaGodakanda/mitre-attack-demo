@@ -60,7 +60,7 @@ pip install mitreattack-python
   ```
 - This script will print a list of techniques from the MITRE ATT&CK framework. The output in the terminal should look like this:<br>
 ![Screenshot 2024-07-31 145754](https://github.com/user-attachments/assets/a40448ee-8f64-4faf-b5a5-867a0188ff50)
-
+- `attack_analysis.py` script is constructured to print all the details of techniques. For demonstration, this project only print `ID` and `Name` of the Techniques.
 ## Project Structure
 ```
 mitre_attack_demo/
