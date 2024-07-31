@@ -59,7 +59,7 @@ pip install mitreattack-python
   python scripts/attack_analysis.py
   ```
 - This script will print a list of techniques from the MITRE ATT&CK framework. The output in the terminal should look like this:<br>
-![Screenshot 2024-07-31 034740](https://github.com/user-attachments/assets/3978c27d-d103-44d0-9ed8-019cfd09aee8)
+![Screenshot 2024-07-31 145754](https://github.com/user-attachments/assets/a40448ee-8f64-4faf-b5a5-867a0188ff50)
 
 ## Project Structure
 ```
