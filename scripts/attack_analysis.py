@@ -8,7 +8,7 @@ def load_and_list_attack_data(json_file_path):
     # List all techniques
     for technique in techniques_data:
         print(f"ID: {technique['ID']}")
-        print(f"STIX ID: {technique['STIX ID']}")
+        # print(f"STIX ID: {technique['STIX ID']}")
         print(f"Name: {technique['name']}")
         # print(f"Description: {technique['description']}")
         # print(f"URL: {technique['url']}")
